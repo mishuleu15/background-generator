@@ -1,1 +1,1 @@
-# background-generator
+# background-generator for me the bummer
